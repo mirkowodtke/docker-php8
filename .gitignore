@@ -9,3 +9,4 @@
 /**/docker/postgres/dbdata/*
 /**/docker/nginx/logs/*
 !/**/docker/nginx/logs/.gitkeep
+app/public_html/**
